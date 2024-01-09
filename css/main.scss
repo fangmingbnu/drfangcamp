@@ -29,6 +29,7 @@ html {
 body {
   padding-top: $navbar-height + $navbar-margin-bottom;
   margin-bottom: 46px;
+  font-family: 'FontAwesome';
 }
 
 .navbar-brand{
@@ -39,6 +40,23 @@ body {
   }
 }
 
+#markdown-content-container p{
+  font-size: 16px;
+}
+
+#markdown-content-container li{
+  font-size: 16px;
+  margin-top:12px;
+}
+
+#markdown-content-container h4{
+  margin-top:40px;
+}
+
+#markdown-content-container h5{
+  margin-top:20px;
+  font-size:17px;
+}
 
 .header-container {
   background-color: black;
