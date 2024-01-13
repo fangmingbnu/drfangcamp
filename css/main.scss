@@ -72,6 +72,7 @@ body {
 
   h1 {
     color: #fff;
+    font-family: 'Microsoft JhengHei';
   }
   // background-attachment: fixed;
   background-size: cover;
@@ -110,5 +111,9 @@ body {
   top:10px
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Microsoft JhengHei';
+}
+
+h1 {
     font-family: 'Microsoft JhengHei';
 }
