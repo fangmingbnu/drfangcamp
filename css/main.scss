@@ -47,17 +47,21 @@ body {
 #markdown-content-container li{
   font-size: 16px;
   margin-top:12px;
+  font-family: 'Microsoft JhengHei';
 }
 
 #markdown-content-container h4{
+  font-family: 'Microsoft JhengHei';
   margin-top:40px;
 }
 
 #markdown-content-container h5{
+  font-family: 'Microsoft JhengHei';
   margin-top:20px;
   font-size:17px;
 }
 #markdown-content-container h1{
+  font-family: 'Microsoft JhengHei';
   font-size:30px;
 }
 
@@ -104,4 +108,7 @@ body {
 }
 .navbar-form .has-feedback .form-control-feedback{
   top:10px
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Microsoft JhengHei';
 }
