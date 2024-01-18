@@ -120,6 +120,14 @@ h1 {
   font-size: 250%;
 }
 
-#markdown-content-container table, td, th {
+#markdown-content-container table{
+  border: 1px solid;
+}
+
+#markdown-content-container td{
+  border: 1px solid;
+}
+
+#markdown-content-container th{
   border: 1px solid;
 }
